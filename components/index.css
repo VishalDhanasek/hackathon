@@ -1,0 +1,20 @@
+.main-s6-card-1 {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    border-radius: 40px;
+    background-image: url("https://assets-global.website-files.com/60d9e24d6df138d960d01170/61c4af8cf164124b7bbfca3b_main-s6-img-01.jpg");
+    background-position: 0% 50%;
+    background-size: cover;
+  }
