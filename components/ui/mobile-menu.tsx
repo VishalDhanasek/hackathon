@@ -66,25 +66,43 @@ export default function MobileMenu() {
         >
           <ul className="px-5 py-2 divide-y">
           <li>
-              <Link href="/ourteam" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Our Team</Link>
+              <Link href="/aboutus" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>About Us</Link>
             </li>
             <li> 
               
               <ul className="px-5 py-2">
-              <Link href="#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Solutions</Link>
+              <Link href="#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Themes</Link>
               <li>
-              <Link href="/foliospark" className="flex font-small w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>1. FolioSpark</Link>
+              <Link href="/themes/agriTech" className="flex font-small w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>1. Agri Tech</Link>
               </li>
               <li>
-              <Link href="/billsmart" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>2. Bill Smart</Link>
+              <Link href="#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>2. Edu Tech</Link>
+              </li>
+              <li>
+              <Link href="#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>3. Fin Tech</Link>
+              </li>
+              <li>
+              <Link href="#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>4. Health Tech</Link>
+              </li>
+              <li>
+              <Link href="#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>5. Sustainability</Link>
+              </li>
+              <li>
+              <Link href="#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>6. Web 3.0</Link>
+              </li>
+              <li>
+              <Link href="#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>7. Cyber Security</Link>
+              </li>
+              <li>
+              <Link href="#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>8. AI & Robotics</Link>
               </li>
               </ul>
             </li>
             <li>
-              <Link href="/blog" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Resources</Link>
+              <Link href="#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Events</Link>
             </li>
             <li>
-              <Link href="/contactus" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Contact Us</Link>
+              <Link href="#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Contact Us</Link>
             </li>
 
             
