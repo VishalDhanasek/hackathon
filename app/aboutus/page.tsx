@@ -103,19 +103,19 @@ export const metadata = {
           <div className="flex flex-wrap -mx-4" data-aos="zoom-y-out">
             <div className="w-full px-4">
               <div className="flex flex-wrap items-center justify-center">
-              <a href="#" className="mx-4 flex w-[150px] items-center justify-center  2xl:w-[180px]">
+              <a href="https://www.innovationgeeks.in/" className="mx-4 flex w-[150px] items-center justify-center  2xl:w-[180px] mt-5 mb-5">
                 <img src="/ig.png" alt="brand" className="w-full h-10" />
               </a>
-              <a href="#" className="mx-0 flex w-[150px] items-center justify-center  ">
+              <a href="#" className="mx-0 flex w-[250px] items-center justify-center 2xl:w-[180px] mb-5  ">
                 <img src="/x.png" alt="brand" className="w-10 h-10" />
               </a>
-              <a href="https://startnet.in/" className="mx-4 flex w-[150px] items-center justify-center  2xl:w-[180px]">
+              <a href="https://startnet.in/" className="mx-4 flex w-[150px] items-center justify-center mb-5 2xl:w-[180px]">
                 <img src="startnet.png" alt="brand" className="w-full h-full" />
               </a>
-              <a href="#" className="mx-0 flex w-[150px] items-center justify-center  ">
+              <a href="#" className="mx-0 flex w-[250px] items-center justify-center mb-5  ">
                 <img src="/x.png" alt="brand" className="w-10 h-10" />
               </a>
-              <a href="#" className="mx-4 flex w-[150px] items-center justify-center  2xl:w-[180px]">
+              <a href="#" className="mx-4 flex w-[150px] items-center justify-center mb-5 2xl:w-[180px]">
                 <img src="/growbinar.png" alt="brand" className="w-full h-full" />
               </a>
               </div>
