@@ -65,7 +65,7 @@ export default function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4">Our Partners</h2>
+            <h2 className="h2 mb-4">Our Sponsors</h2>
             <p className="text-xl text-gray-600" data-aos="zoom-y-out">Let's Make a Difference Together! Become Our Community Partner.</p>
           </div>
 
