@@ -10,8 +10,8 @@ export default function Logo() {
     <Link href="/" className="block" aria-label="Cruip">
       <Image
       src={Logomain}
-      width={55}
-      height={55}
+      width={140}
+      height={75}
       alt="Innovation Geeks - Unlocking Your Digital Potential"
         />
     </Link>

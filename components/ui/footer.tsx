@@ -31,7 +31,7 @@ export default function Footer() {
             <div className="mb-2">
               <Logo />
             </div>
-            <h1 className="text-black-800 font-bold mb-2">SparkX</h1>
+            
             <div className="text-sm">
 
               <h5 className="text-gray-600 ">"Empowering Innovation, Igniting Collaboration" </h5> 
