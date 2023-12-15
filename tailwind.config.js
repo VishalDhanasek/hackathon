@@ -41,7 +41,10 @@ module.exports = {
           800: '#285E61',
           900: '#234E52',
         },
-        purple: '#86198f'
+        purple: '#86198f',
+
+        gradient1: '#2563eb',
+        gradient2: '#60a5fa'
       },
       boxShadow: {
         xs: '0 0 0 1px rgba(0, 0, 0, 0.16)',

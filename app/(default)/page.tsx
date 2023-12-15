@@ -15,6 +15,7 @@ import Timeline from '@/components/timeline'
 import Themes from '@/components/themes'
 import Banner123 from '@/components/banner123'
 import Takeaway from '@/components/takeaway'
+import New from '@/components/ui/new'
 
 
 
@@ -25,10 +26,12 @@ export default function Home() {
       <Hero />
       <Features />
       <Themes/>
+      <New/>
       <Testimonials />
       <Timeline/>
       <Takeaway/>
       <Banner123/>
+      
 
       
       
