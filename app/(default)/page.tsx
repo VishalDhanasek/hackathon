@@ -16,7 +16,7 @@ import Themes from '@/components/themes'
 import Banner123 from '@/components/banner123'
 import Takeaway from '@/components/takeaway'
 import New from '@/components/ui/new'
-
+import Bento from '@/components/ui/bentogrid'
 
 
 
@@ -28,6 +28,7 @@ export default function Home() {
       <Themes/>
       <New/>
       <Testimonials />
+      <Bento/>
       <Timeline/>
       <Takeaway/>
       <Banner123/>
